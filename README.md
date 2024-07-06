@@ -1,4 +1,4 @@
-# Mysticlouds Server Information
+# Information
 Welcome to the **Mysticlouds Pterodactyl Eggs and Optimizations**! This project is dedicated to enhancing your Minecraft server experience through optimized configurations and custom Pterodactyl eggs.
 
 
